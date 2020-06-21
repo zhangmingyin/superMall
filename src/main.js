@@ -11,3 +11,4 @@ new Vue({
   components: { App },
   template: '<App/>',
 })
+document.writeln("你们好啊")
